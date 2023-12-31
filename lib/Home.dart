@@ -32,7 +32,7 @@ class Home extends StatelessWidget {
                     color: Colors.red,
                     offset: Offset(15, 10),
                     blurRadius: 3,
-                  ),
+                  ), 
                 ]),
           ),
         ),
